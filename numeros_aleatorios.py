@@ -8,5 +8,5 @@ for i in range(1000):
     x = random.random()
     print(x)
 
-#Este programa produz a seguinte lista de 10 números aleatórios entre 0.0 e até,
-#mas não incluindo, 1.0.
+#Este programa produz a seguinte lista de 1000 números aleatórios entre 0.0 e até,
+#mas não incluindo, 1.0.0.0
